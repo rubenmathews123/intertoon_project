@@ -1,0 +1,109 @@
+{
+    "Message": "Product Details  ",
+    "Data": {
+        "ProdDetails": {
+            "venderName": "KM Shoppy",
+            "venderDetails": null,
+            "vendorUrlKey": "kmshoppy",
+            "catName": "LPG Stoves",
+            "imageUrl": "assets/images/uploads/productimages/no-image.jpg",
+            "catUrlKey": "lpg-stoves",
+            "catId": 118,
+            "CartItemQty": 0,
+            "IsWishlisted": false,
+            "IsCarted": false,
+            "IsAvailPincode": false,
+            "IsReviewCount": 0,
+            "Reviewstatus": 0,
+            "IsReviewAvgrating": 0.0,
+            "productId": 996,
+            "vendorid": 121,
+            "prDate": "2022-10-21T17:45:09.523",
+            "actDate": "2022-10-21T17:45:09.523",
+            "prName": "GREENCHEF LPG STOVE GLASS TOP CRYSTAL 3 BURNER",
+            "sku": "95",
+            "unitPrice": 3899.000000,
+            "description": "<p>GREENCHEF LPG STOVE GLASS TOP CRYSTAL 3 BURNER</p>\r\n",
+            "shortDescription": "GREENCHEF LPG STOVE GLASS TOP CRYSTAL 3 BURNER",
+            "urlKey": "greenchef-lpg-stove-glass-top-crystal-3-burner",
+            "metaTitle": "",
+            "metaKeywords": "",
+            "metaDescription": "",
+            "status": true,
+            "qoh": 12.00,
+            "rank": 1,
+            "availableFrom": null,
+            "availableTo": null,
+            "suspendedDate": null,
+            "newDate": null,
+            "delDate": null,
+            "maxQtyInOrders": 0.00,
+            "soldQty": 0.00,
+            "stockAvailability": "In Stock",
+            "backOrders": false,
+            "rol": 0.00,
+            "roq": 0.00,
+            "parentId": 1010,
+            "specialPrice": 2690.000000,
+            "attributeSetId": null,
+            "pincodeSetId": null,
+            "prWeight": "1 Piece",
+            "taxClassId": null,
+            "cessAmount": null,
+            "featuredImage": null,
+            "avgRating": null,
+            "reviewCount": null,
+            "dealFrom": null,
+            "dealTo": null,
+            "erpRefNo": null,
+            "productType": null,
+            "variationJson": "[{\"Attrid\":15,\"Attrname\":\"Burner\",\"AttrValues\": [{\"AttrValueid\": 1338,\"AttrValuename\": \"3\",\"prUrlkey\":\"greenchef-lpg-stove-glass-top-crystal-3-burner\",\"prPrice\":\"3899.00\",\"prSpecialPrice\":\"2690.00\",\"prFeaturedImage\":\"assets/images/uploads/productimages/no-image.jpg\",\"prRating\":\"0\",\"prReviews\":\"0\",\"prName\":\"GREENCHEF LPG STOVE GLASS TOP CRYSTAL 3 BURNER\",\"productId\":\"996\",\"prStock\":\"In Stock\",\"prStatus\":1},{\"AttrValueid\": 1339,\"AttrValuename\": \"2\",\"prUrlkey\":\"greenchef-lpg-stove-glass-top-crystal-2-burner\",\"prPrice\":\"2899.00\",\"prSpecialPrice\":\"1919.00\",\"prFeaturedImage\":\"assets/images/uploads/productimages/no-image.jpg\",\"prRating\":\"0\",\"prReviews\":\"0\",\"prName\":\"GREENCHEF LPG STOVE GLASS TOP CRYSTAL 2 BURNER\",\"productId\":\"990\",\"prStock\":\"In Stock\",\"prStatus\":1}]}]",
+            "bsl": null,
+            "prWeightMfactor": null,
+            "markupPercentage": null,
+            "productLabel": "",
+            "backgroundColorCode": "",
+            "isNew": null,
+            "costPrice": null,
+            "erpCat": null,
+            "prwmf": null,
+            "CartItems": [],
+            "Keywords": [],
+            "TaxClass": null,
+            "ProductCategories": [],
+            "ProductImages": [],
+            "ProductPincodes": [],
+            "Vendor": null,
+            "ProductViews": [],
+            "Reviews": [],
+            "SaveForLaters": [],
+            "WishLists": []
+        },
+        "ProdImages": [
+            {
+                "imageUrl": "assets/images/uploads/productimages/no-image.jpg",
+                "position": "0",
+                "imgType": "Image"
+            }
+        ],
+        "specDetails": [
+            {
+                "attrName": "Burner",
+                "attrValue": "3",
+                "displayPosition": 3
+            }
+        ],
+        "catList": [
+            {
+                "catId": 117,
+                "catName": "Home Appliances",
+                "catUrlKey": "home-appliances"
+            },
+            {
+                "catId": 118,
+                "catName": "LPG Stoves",
+                "catUrlKey": "lpg-stoves"
+            }
+        ]
+    }
+}
